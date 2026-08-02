@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/banner.png" width="100%" alt="Rohith Bandi Banner">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rohith+Bandi;B.Tech+CSE+(Data+Science)+Student;IIT+Madras+BS+in+Data+Science;Learning+C%2B%2B+%7C+DSA+%7C+Python+%7C+AI;Future+Software+Engineer+🚀" />
 </p>
 
