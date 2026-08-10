@@ -1,15 +1,12 @@
-name: Generate GitHub Stats
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
 
     permissions:
@@ -20,6 +17,25 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          github_user_name: rohitbandi0311-afk
+          card: stats
+          options: username=rohitbandi0311-afk&show_icons=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=rohitbandi0311-afk&layout=compact&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update GitHub stats" || exit 0
+          git push
