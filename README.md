@@ -1,14 +1,16 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/banner.png" width="100%" alt="Rohith Bandi Banner">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Rohith+Bandi;B.Tech+CSE+(Data+Science)+Student;IIT+Madras+BS+in+Data+Science;Learning+C%2B%2B+%7C+DSA+%7C+Python+%7C+AI;Future+Software+Engineer+🚀" />
-</p>
+<img src="./banner.png" width="100%" alt="Rohith Bandi Banner">
 
-<h1 align="center">
+<br>
 
-<h3 align="center">🚀 B.Tech CSE (Data Science) Student | 🎓 IIT Madras BS in Data Science</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Rohith+Bandi;B.Tech+CSE+(Data+Science)+Student;AI+%26+Data+Science+Enthusiast;Future+Software+Engineer+🚀">
+
+<br><br>
+
+<h3>🚀 B.Tech CSE (Data Science) Student | 🎓 IIT Madras BS in Data Science</h3>
+
+</div>
 
 ---
 
@@ -16,78 +18,124 @@
 
 - 🌱 Currently learning **C++, DSA, Python, AI & Machine Learning**
 - 💻 Passionate about **Software Development & Data Science**
-- 🎯 Goal: **Software Engineer @ Google**
-- 📍 India
+- 🤖 Interested in **Artificial Intelligence and Machine Learning**
+- 🏆 Hackathon Participant
+- 🚀 Building projects to improve my practical skills
+- 🎯 Goal: **Become a Software Engineer**
+- 🇮🇳 India
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,git,github,vscode,mysql"/>
-</p>
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,mysql" />
+
+<br><br>
+
+### 🔧 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&theme=github_dark&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&theme=github_dark&cache_seconds=1800" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rohitbandi0311-afk&theme=tokyonight&hide_border=true"/>
-</p>
+| Project | Description |
+|---|---|
+| 🤖 **AI Message Router** | AI-powered message classification and routing project |
+| 🏦 **Loan Prediction** | Machine Learning project for predicting loan approval |
+| 🎓 **University Management System** | DBMS project for managing university information |
+| 💻 **C++ Learning Notes** | C++ programming practice and learning resources |
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohitbandi0311-afk&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
 
-## 📈 Contribution Graph
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbandi0311-afk&theme=tokyo-night"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Current Goals
+# 🔥 GitHub Streak
 
-- ✅ Master C++
-- ✅ Solve DSA Daily
-- ✅ Build AI Projects
-- ✅ Crack Top Internship
-- ✅ Contribute to Open Source
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=rohitbandi0311-afk&theme=tokyonight&hide_border=true&border_radius=10" width="70%">
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/itsrohith010"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:rohit.bandi0311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rohitbandi0311-afk&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+# 🏆 GitHub Trophies
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐<br>
-Keep Learning • Keep Building • Keep Growing 🚀
-</p>
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=rohitbandi0311-afk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1">
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbandi0311-afk&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%">
+
+</div>
+
+---
+
+# 🚀 Current Goals
+
+- ✅ Improve **C++**
+- 🔄 Master **Data Structures & Algorithms**
+- 🔄 Build more **AI Projects**
+- 🔄 Learn **Machine Learning**
+- 🎯 Prepare for a **Software Engineering Internship**
+- 🌱 Contribute to **Open Source**
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/itsrohith010">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/itsrohith010">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:rohit.bandi0311@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rohitbandi0311-afk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+</div>
