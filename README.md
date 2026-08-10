@@ -55,17 +55,15 @@
 
 ---
 
-# 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 
 </div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -76,16 +74,13 @@
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
+<h2>📈 Contribution Graph</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohitbandi0311-afk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbandi0311-afk&theme=tokyo-night" width="100%" />
 
 </div>
-
----
 
 # 📈 Contribution Graph
 
