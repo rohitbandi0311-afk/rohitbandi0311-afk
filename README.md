@@ -94,6 +94,13 @@
 - 🌱 Contribute to Open Source
 
 ---
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitbandi0311-afk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+</p>
 
 ## 🌐 Connect With Me
 
