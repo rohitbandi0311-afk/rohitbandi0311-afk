@@ -54,17 +54,15 @@
 | 💻 **C++ Learning Notes** | C++ programming practice and learning resources |
 
 ---
-
-<h2>📊 GitHub Stats</h2>
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&theme=tokyonight" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&theme=tokyonight" width="48%">
 
 </div>
-
 # 🔥 GitHub Streak
 
 <div align="center">
