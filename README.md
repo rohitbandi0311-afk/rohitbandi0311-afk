@@ -1,133 +1,119 @@
-<div align="center">
+# 👋 Hi, I'm B. Rohith
 
-<img src="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/banner.png" width="100%" alt="Rohith Bandi Banner">
-
-<br>
-
-<h1>👋 Hi, I'm Rohith Bandi</h1>
-
-<h3>🚀 B.Tech CSE (Data Science) Student | 🎓 IIT Madras BS in Data Science</h3>
-
-<p>
-  <b>Software Development</b> •
-  <b>Data Science</b> •
-  <b>Artificial Intelligence</b> •
-  <b>Machine Learning</b>
+<p align="center">
+  <b>Data Science Student • AI/ML Enthusiast • Developer • Hackathon Builder</b>
 </p>
 
-</div>
+<p align="center">
+  Turning ideas into projects and learning something new every day. 🚀
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🌱 Currently learning **C++, DSA, Python, AI & Machine Learning**
-- 💻 Passionate about **Software Development & Data Science**
-- 🤖 Interested in **Artificial Intelligence and Machine Learning**
-- 🏆 Hackathon Participant
-- 🚀 Building projects to improve my practical skills
-- 🎯 Goal: Become a **Software Engineer**
-- 🇮🇳 India
+🎓 **B.Tech CSE (Data Science) Student**  
+📊 **IIT Madras BS in Data Science**  
+🤖 Exploring **Artificial Intelligence & Machine Learning**  
+💻 Interested in **Software Development & Data Science**  
+🏆 Passionate about **Hackathons & Real-World Problem Solving**
+
+---
+
+## 🚀 What I'm Currently Doing
+
+- 📚 Learning **Data Science, AI & Machine Learning**
+- 🐍 Building projects with **Python**
+- 📊 Working with **Data Analytics & ML**
+- 🏆 Participating in **Hackathons**
+- 💡 Turning real-world problems into technology solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,mysql,git,github,vscode" />
 </p>
 
-### 🔧 Tools & Technologies
+### 📊 Data & AI
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
+`Python` `Pandas` `NumPy` `Scikit-learn` `Data Analysis` `Machine Learning`
+
+### 🌐 Development
+
+`HTML` `CSS` `JavaScript` `MySQL` `Git` `GitHub`
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤖 **AI Message Router** | AI-powered message classification and routing project |
-| 🏦 **Loan Prediction** | Machine Learning project for predicting loan approval |
-| 🎓 **University Management System** | DBMS project for managing university information |
-| 💻 **C++ Learning Notes** | C++ programming practice and learning resources |
+### 💰 Loan Prediction System
+Machine Learning project that predicts loan approval based on applicant information.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn
+
+---
+
+### 🚆 AI-Powered Automatic Block Planning
+
+An AI-powered solution for **optimizing railway block planning and maximizing asset availability for train operations**.
+
+🏆 **Smart India Hackathon**
+
+**Tech:** AI • Machine Learning • Optimization • Data Science
+
+---
+
+## 🏆 Hackathons & Achievements
+
+🚀 **Smart India Hackathon 2026**
+
+💡 Building innovative solutions for real-world problems.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rohitbandi0311-afk&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=rohitbandi0311-afk&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitbandi0311-afk&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph">
-</p>
-
----
-
-## 🚀 Current Goals
-
-- ✅ Improve C++
-- 🔄 Master Data Structures & Algorithms
-- 🔄 Build more AI Projects
-- 🔄 Learn Machine Learning
-- 🎯 Prepare for a Software Engineering Internship
-- 🌱 Contribute to Open Source
-
----
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitbandi0311-afk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
-</p>
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/itsrohith010">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/rohitbandi0311-afk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/itsrohith010">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.linkedin.com/in/itsrohith010/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rohit.bandi0311@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://instagram.com/itsrohith010">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <i>“Learn. Build. Innovate.”</i> 🚀
+</p>
 
-⭐ **Thanks for visiting my profile!** ⭐
-
-<br>
-
-**Keep Learning • Keep Building • Keep Growing 🚀**
-
-</div>
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
