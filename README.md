@@ -1,16 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/light.svg" />
-  <img alt="B. Rohith — animated GitHub profile banner" src="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/ChatGPT%20Image%20Sep%205%2C%202026%2C%2004_36_15%20PM.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/ChatGPT%20Image%20Sep%205%2C%202026%2C%2004_36_15%20PM.png" />
+  <img width="100%" alt="Rohith futuristic developer profile dashboard" src="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/ChatGPT%20Image%20Sep%205%2C%202026%2C%2004_36_15%20PM.png" />
 </picture>
 
 </div>
 
 <div align="center">
-
-# B. Rohith
 
 ### Data Science Student • AI/ML Enthusiast • Developer • Hackathon Builder
 
@@ -50,12 +48,6 @@ STATUS       BUILDING • LEARNING • SHIPPING
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitbandi0311-afk&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbandi0311-afk&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" height="180" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=rohitbandi0311-afk&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" width="100%" />
 
 </div>
@@ -70,6 +62,7 @@ STATUS       BUILDING • LEARNING • SHIPPING
 AI-driven railway block planning concept focused on improving planning efficiency and reducing conflicts.
 
 ### 💳 Loan Prediction System
+
 Machine-learning project for predicting loan approval outcomes from applicant information.
 
 ---
@@ -87,7 +80,7 @@ Machine-learning project for predicting loan approval outcomes from applicant in
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/output/github-snake.svg" />
-  <img alt="Snake eating GitHub contributions" src="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/output/github-snake.svg" />
+  <img alt="Snake eating GitHub contributions" src="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
