@@ -10,6 +10,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Rohith+Bandi+%F0%9F%91%8B;AI+%2F+ML+%7C+Data+Science+%7C+Full-Stack;Building+ideas+into+useful+products;Learn.+Build.+Ship.+Grow." alt="Animated introduction" />
 
+  <img src="https://raw.githubusercontent.com/rohitbandi0311-afk/rohitbandi0311-afk/main/assets/animated-dev-icons.svg" alt="Floating animated code, AI, leaf, database and rocket icons" width="92%" />
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=rohitbandi0311-afk&style=for-the-badge&color=ff6b00&label=PROFILE+VIEWS" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/rohitbandi0311-afk?style=for-the-badge&color=00bcd4&label=FOLLOWERS" alt="Followers" />
