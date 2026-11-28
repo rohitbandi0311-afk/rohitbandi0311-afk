@@ -27,9 +27,10 @@ I'm **Rohith Bandi**, a second-year B.Tech student in **CSE (Data Science)** at 
 I enjoy taking an idea from a blank page to a working prototype. My interests sit at the intersection of **AI/ML, data, and full-stack development**—especially when technology can make a practical difference in people's lives.
 
 - 🌱 Learning by building, experimenting, and improving.
-- 🧠 Interested in applied AI, machine learning, and data-driven products.
+- 🧠 Interested in applied AI, machine learning, data analytics, and data-driven products.
 - 🧩 Enjoy hackathons, collaborative problem-solving, and turning problem statements into prototypes.
-- 🤝 Open to meaningful collaborations, feedback, and learning opportunities.
+- 🎤 Interested in student leadership, campus engagement, and technology communities.
+- 🤝 Open to meaningful collaborations, feedback, internships, and learning opportunities.
 
 > **My approach:** Build something useful. Test the idea. Learn from what breaks. Make it better.
 
@@ -53,7 +54,8 @@ I enjoy taking an idea from a blank page to a working prototype. My interests si
   <h3>Languages & web</h3>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs&perline=8" alt="Programming and web technologies" />
   <h3>Backend, data & developer tools</h3>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql,git,github,vscode,linux&perline=6" alt="Backend, data and developer tools" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,git,github,vscode,linux&perline=7" alt="Backend, data and developer tools" />
+  <p><strong>Additional tools:</strong> Power BI · Data Analysis · SQL · MySQL</p>
 </div>
 
 <p align="center">
@@ -107,10 +109,32 @@ I enjoy taking an idea from a blank page to a working prototype. My interests si
 
 <div align="center">
   <img src="https://img.shields.io/badge/GOOGLE-Gemini%20Student%20Ambassador%202026-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Student Ambassador 2026" />
+  <img src="https://img.shields.io/badge/TECHFEST-IIT%20Bombay%20College%20Ambassador%202026--27-7C3AED?style=for-the-badge&logo=university&logoColor=white" alt="Techfest IIT Bombay College Ambassador 2026–27" />
   <img src="https://img.shields.io/badge/COMMUNITY-Hackathons%20%26%20Builds-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Hackathons and builds" />
 </div>
 
+### Leadership & community experience
+
+**College Ambassador — Techfest, IIT Bombay (2026–27)**
+- Selected to represent and promote Techfest initiatives among students.
+- Help connect students with technical events, competitions, workshops, and learning opportunities.
+- Encourage participation in technology and innovation activities.
+
+**Google Student Ambassador — 2026**
+- Part of the Google Student Ambassador programme.
+- Interested in helping peers discover Google learning resources and emerging technologies.
+
 I value the process as much as the outcome: learning from mentors, collaborating with peers, testing ideas, and improving projects through feedback.
+
+### Certifications & participation
+
+- **Career Essentials in Data Analysis** — Microsoft & LinkedIn.
+- **Product Understanding** — Google Student Ambassador Program 2026.
+- **Problem Solving (Basic)** — HackerRank.
+- **Qiskit Fall Fest 2026** — Certificate of Participation.
+- **Internal Hackathon for SIH 2026** — Certificate of Participation.
+
+*Credentials and participation listed from my professional profile. Individual certificates can be added as links when their public URLs are available.*
 
 ## 📈 GitHub dashboard
 
