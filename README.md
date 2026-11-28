@@ -37,7 +37,7 @@
   <sub>Student · Developer · Builder</sub>
 </td>
 <td width="80%" valign="middle">
-  I'm a **second-year B.Tech student in CSE (Data Science) at Harita University**, interested in building practical software at the intersection of **AI/ML, data and full-stack development**.
+  I'm a **second-year B.Tech student in CSE (Data Science) at Aditya University**, interested in building practical software at the intersection of **AI/ML, data and full-stack development**.
 
   I enjoy taking ideas from problem statements to working prototypes—then learning from feedback, improving the experience and making the solution more useful.
 
